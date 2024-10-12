@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "JpMBFZotrIf7cOI//wbjERdJQGzI+JW4iG/dVcllHbk=",
+  "Source": "Web_API",
+  "BasePath": "_content/Web_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Web_API\\wwwroot",
+      "Source": "Web_API",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\пр\\Web_API\\Web_API\\wwwroot\\",
+      "BasePath": "_content/Web_API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Downloads\\пр\\Web_API\\Web_API\\wwwroot\\index.html",
+      "SourceId": "Web_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\пр\\Web_API\\Web_API\\wwwroot\\",
+      "BasePath": "_content/Web_API",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Downloads\\пр\\Web_API\\Web_API\\wwwroot\\script.js",
+      "SourceId": "Web_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Downloads\\пр\\Web_API\\Web_API\\wwwroot\\",
+      "BasePath": "_content/Web_API",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    }
+  ]
+}
